@@ -1,7 +1,7 @@
 ## Crypto-Kick Ass
 
 # Team Members
-* [Aiden](https://umn.bootcampcontent.com/aidxn)
+* [Aidan](https://umn.bootcampcontent.com/aidxn)
 * [Brian](https://umn.bootcampcontent.com/MrIrrelevant)
 * [Kally](https://umn.bootcampcontent.com/klb0215)
 * [Mike](https://umn.bootcampcontent.com/mvigoren34)
