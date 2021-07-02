@@ -12,3 +12,4 @@ can be programmed into an algorithmic trading model to produce succesful returns
 so we don't have to.
 
 [Coin Sentiment Analysis](Sentiment_Analysis/CoinSentiment.ipynb)
+[Trading Signals Using VADER](VaderTradeCoins/final_Project_2_with_vadar.ipynb)
